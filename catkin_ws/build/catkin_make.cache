@@ -1,0 +1,2 @@
+diffbot_base:diffbot_bringup:diffbot_control:diffbot_description:diffbot_gazebo:diffbot_mbf:diffbot_msgs:diffbot_navigation:diffbot_robot:diffbot_slam:my_robot:myrobot_control:myrobot_gazebo:test_pub_sub
+-DCATKIN_DEVEL_PREFIX=/home/viet/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/viet/catkin_ws/install -G Unix Makefiles
